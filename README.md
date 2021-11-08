@@ -1,1 +1,0 @@
-# NPay-app
